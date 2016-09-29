@@ -6766,3 +6766,35 @@ button.close {
     margin: 0;
     margin-left: -30px;
 }
+
+
+.row.footer {
+    border-top-style: solid;
+    border-color: #7d756d;
+}
+
+.navbar-default {
+    background-color: #211f1d;
+    border-color: #101010;
+}
+
+.navbar-default .navbar-nav > li > a {
+    color: #fff;
+    text-transform: uppercase;
+}
+
+.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
+    color: #211f1d;
+    background-color: #ffffff;
+    border-color: black;
+}
+
+
+.navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
+    color: #fff;
+    background-color: #9E9E9E;
+}
+
+.fa{
+  font-size: 25px;
+}
