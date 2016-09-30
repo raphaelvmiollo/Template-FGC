@@ -6798,3 +6798,19 @@ button.close {
 .fa{
   font-size: 25px;
 }
+
+.navbar {
+    border-radius: 0px;
+}
+
+.img-topo{
+
+    border-left-style: groove;
+    border-left-width: thin;
+    border-color: black;
+    border-right-style: groove;
+    border-right-width: thin;
+    border-top-width: thin;
+    border-top-style: groove;
+
+}
